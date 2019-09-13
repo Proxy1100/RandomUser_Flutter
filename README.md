@@ -1,11 +1,11 @@
 # RandomUser_Flutter
- This code is going to Explain abot APL Calling (JSON)  .. I mean Handling Some User with flutter and shown as in ListView
+ This code is going to Explain about APL Calling (JSON)  Which mean Handling Some User with flutter.
 
-RandomUser Project is going to Show you How to handle API(Application Programming Interface) In this project I'll explain with JSON 
-In the firstPage of app You need to enter How many users you need 
-Then Click Next Iccon 2 Move NextPage
-That ammout of users can vising to your App
-I mean What Exactly going inside is getting Raw Information Data's Such as Name, Mail ID, Age, Url for Image from https://randomuser.me/api/100
+RandomUser Project is going to Show you How to handle API(Application Programming Interface). In this project I'll explain with RandomUser.me .
+In the firstPage of the  app You need to enter how many users you need .
+Then Click NextIcon to  Move to the NextPage.
+The amount of users visiting to  App
+Which Mean What Exactly going inside is got as  Raw Information Data's Such as Name, Mail ID, Age, Url for Image from https://randomuser.me/api/100
 
 Its can be handel by below Packages
 import 'package:flutter/material.dart';
