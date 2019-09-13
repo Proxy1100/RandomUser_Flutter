@@ -23,8 +23,9 @@ import 'package:http/http.dart' as http;
 
 import 'dart:core';
 
-
+=====================================================================================================
 Installation Instructions
+
 
 git clone https://github.com/Kabulkrish/RandomUser_Flutter
 
