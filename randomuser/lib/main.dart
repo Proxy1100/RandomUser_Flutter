@@ -91,7 +91,7 @@ class _MainPageState extends State<MainPage> {
                         
 
                       if(input.isEmpty){
-                        return "Enter Mobile number";
+                        return "Enter Number";
                       }
                       
                     },
