@@ -32,8 +32,16 @@ How to Use
 4)Run the Project .
 
 
-ScreenShots
+ScreenShot1.....................................................................................................
 
 ![alt text](https://github.com/Kabulkrish/RandomUser_Flutter/blob/master/ScreenShot/a.png)
+
+
+Screenshot 2......................................................................
 ![alt text](https://github.com/Kabulkrish/RandomUser_Flutter/blob/master/ScreenShot/1.png)
+
+
+
+
+Screenshot 3.....................................................
 ![alt text](https://github.com/Kabulkrish/RandomUser_Flutter/blob/master/ScreenShot/b.png)
